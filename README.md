@@ -6,7 +6,7 @@ found at https://github.com/Backblaze/JavaReedSolomon. The work here is intended
 product than the original Java implementation built by BackBlaze.
 
 
-#Key Conversion Considerations:
+Key Conversion Considerations:
 
 1) Literal translation (function to function)
 2) Idiotmatic translation (style)
