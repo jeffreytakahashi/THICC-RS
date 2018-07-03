@@ -5,5 +5,4 @@ This is to be a C implementation of a Reed-Solomon error correction. Code is bas
 at https://github.com/Backblaze/JavaReedSolomon. The work here is intended to provide a faster final
 product than the original Java implementation built by BackBlaze.
 
-This final goal is to produce a functional C implementation of the repo found above. This is  to be
-used by the Portland State Aerospace Society's (PSAS) OreSat team.
+This final goal is to produce a functional C implementation of the repo found above.
